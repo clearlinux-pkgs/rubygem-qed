@@ -4,7 +4,7 @@
 #
 Name     : rubygem-qed
 Version  : 2.9.2
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/qed-2.9.2.gem
 Source0  : https://rubygems.org/downloads/qed-2.9.2.gem
 Summary  : No detailed summary available
